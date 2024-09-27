@@ -5,6 +5,6 @@
 - 🌱 APJ Abdul Kalam Technological University 
 - 👯 SCMS college of engneering and technology
 - 🤔 Doing research in web programming and designing
-- 💬 Good skills in learning programming languages fast
+-📚 Constantly learning and expanding my skill set to stay ahead in the ever-evolving tech landscape.
 - ⚡participated in many hackathons and events
 -->
