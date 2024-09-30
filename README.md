@@ -1,4 +1,4 @@
-### HI, I am Antony m enchakkal
+### HI, I am Antony M Enchakkal
 
 
 - 🔭 Student pursuing my engneering at Computer science
